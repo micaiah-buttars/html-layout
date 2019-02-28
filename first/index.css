@@ -1,0 +1,16 @@
+
+
+.header{
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    background: #777777
+}
+.footer{
+    height: 50px;
+    width: 60%;
+    position: absolute;
+    bottom: 0;
+    margin: ;
+    background: #555555;
+}
